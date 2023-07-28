@@ -10,3 +10,4 @@ This function is working in client-sided scripts and server-sided
 # Credits
 
 Object list inside list.lua has been took from es_mapper script created by indilo53
+https://github.com/indilo53/fxserver-es_mapper
